@@ -1,0 +1,11 @@
+.article-banner {
+  width: auto%;              /* Ensures the image spans the full width of the card */
+  height: 100%;             /* Maintains the image's aspect ratio */
+  object-fit: contain;        /* Ensures the image covers the card area without being distorted */
+  max-height: 200px;        /* Sets a maximum height for the image */
+  overflow: hidden;         /* Hides any overflow if the image is larger than the card */
+}
+
+.transparent-image {
+  opacity: 0.5;  /* Adjust opacity value (0.0 = fully transparent, 1.0 = fully opaque) */
+}

@@ -1,0 +1,23 @@
+# Theme metadata
+name = "VIBE"
+
+[light]
+  # Primary
+  primary = "#3A6979"
+
+  # Menu
+  menu_primary = "#3A6979"
+  menu_text = "#FFFFFF"
+  menu_text_active = "#FFFFFF"
+  menu_title = "#F6F8E7"
+
+  # Home sections
+  home_section_odd = "#FFFFFF"
+  home_section_even = "#E3EBDF"
+
+[dark]
+  # Primary
+  primary = "#3A6979"
+
+  link = "#9DCAC1"
+  link_hover = "#9DCAC1"

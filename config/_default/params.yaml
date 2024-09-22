@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: vibe
   theme_night:
-  font: native
-  font_size: L
+  font: minimal
+  font_size: S
 
 # SEO
 
@@ -18,8 +18,8 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    description: ''
+    twitter: 'L_Brierley'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -40,12 +40,14 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: false
+    # Let the user choose between light or dark mode?
+    show_theme_chooser: true
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Liam Brierley. This work is licensed under {license}. Good VIBEs only.'
     license:
       enable: true
       allow_derivatives: false
