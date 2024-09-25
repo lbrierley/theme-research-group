@@ -9,10 +9,11 @@ sections:
     content:
       title: Research
       subtitle: '<br>Emerging infectious diseases still pose serious threats to global health, exemplified by the COVID-19 pandemic (SARS-CoV-2) as well as Zaire ebolavirus, Zika virus, and numerous others over the last twenty years. Our research mission is to use new data, methods, and computational technologies to better understand how RNA viruses ''host shift'' (i.e., infect and cause disease within a new host species) with a view to anticipating future pandemic risks. 
-	  
 
 	  We use a broad range of methodologies (e.g., biostatistics, artificial intelligence, natural language processing) and model a broad diversity of animal RNA viruses, though our research is driven by consistent key questions around dynamics of viruses in their...'
     design:
+      background:
+        color: '#E3EBDF'
       spacing:
         padding: ['20px', '0', '20px', '0']	  
   - block: collection
@@ -31,6 +32,8 @@ sections:
       order: desc
       page_type: publication
     design:
+      background:
+        color: '#FFFFFF'
       spacing:
         padding: ['30px', '0', '30px', '0']
       view: list
@@ -54,6 +57,8 @@ sections:
       order: desc
       page_type: publication
     design:
+      background:
+        color: '#E3EBDF'
       spacing:
         padding: ['30px', '0', '30px', '0']
       view: list
@@ -75,6 +80,8 @@ sections:
       order: desc
       page_type: publication
     design:
+      background:
+        color: '#FFFFFF'
       spacing:
         padding: ['30px', '0', '30px', '0']
       view: list
@@ -96,6 +103,8 @@ sections:
       order: desc
       page_type: publication
     design:
+      background:
+        color: '#E3EBDF'
       spacing:
         padding: ['30px', '0', '30px', '0']
       view: list
@@ -104,6 +113,9 @@ sections:
   - block: markdown
     content:
       title: 'Some of our active research partnerships:'
+    design:
+      background:
+        color: '#FFFFFF'
 
   - block: slider
     headless: true
@@ -152,6 +164,8 @@ sections:
           position: center
           color: '#E3EBDF'    
     design:
+      background:
+        color: '#FFFFFF'
       slide_height: '300px'
       is_fullscreen: false
       # Automatically transition through slides?
