@@ -12,7 +12,7 @@ sections:
       text: |-
         To contact me, please see details below. We are open to inquiries from researchers seeking potential collaboration and prospective PhD students who have projects in mind and are seeking supervision to apply for funding directly.
         
-        Fully-funded PhD opportunities and research staff positions within our group will be advertised on the homepage and on the university website. For more information on schemes for PhD applications at the CVR, please see [the University's web resources](https://www.gla.ac.uk/research/az/cvr/trainingdevelopment/postgraduateresearchers/).
+        Fully-funded PhD opportunities and research staff positions within our group will be advertised on the homepage via the [blog](/blog) and on the university website. For more information on schemes for PhD applications at the CVR, please see [the University's web resources](https://www.gla.ac.uk/research/az/cvr/trainingdevelopment/postgraduateresearchers/).
         
   - block: contact
     content:
