@@ -26,17 +26,23 @@ sections:
     
   - block: collection
     content:
-      title: Latest Publications
-      text: ""
-      count: 3
+      title: Latest Blog Posts
+      subtitle:
+      text:
+      count: 2
       filters:
-        folders:
-          - publication
-        publication_type: 'article-journal'
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: blog
     design:
-      view: citation
+      view: card
       columns: '1'
-
+  
   - block: markdown
     content:
       title:
@@ -56,24 +62,18 @@ sections:
       spacing:
         padding: ['0px', '0px', '0px', '0px']
       css_class: fullscreen
-
+      
   - block: collection
     content:
-      title: Latest Blog Posts
-      subtitle:
-      text:
+      title: Latest Publications
+      text: ""
       count: 3
       filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: blog
+        folders:
+          - publication
+        publication_type: 'article-journal'
     design:
-      view: card
+      view: citation
       columns: '1'
 
 ---
