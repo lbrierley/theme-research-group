@@ -7,7 +7,7 @@ date: 2025-02-18
 
 <!--more-->
 
-The project will developing innovative supervised machine learning and graph analysis frameworks using genomic characteristics and protein expression to predict likely infection links between hosts, tissues, and RNA viruses within a wide range of families, e.g., paramyxoviruses and coronaviruses. For more about the lab's wider research interests, see our [research page](/research).
+The project will focus on developing innovative supervised machine learning and graph analysis frameworks using genomic characteristics and protein expression to predict likely infection links between hosts, tissues, and RNA viruses within a wide range of families, e.g., paramyxoviruses and coronaviruses. For more about the lab's wider research interests, see our [research page](/research).
 
 This role would suit a PhD holder coming from bioinformatics, quantitative virology, mathematical biology, or computer science. Candidates who have a Masters or equivalent or are working towards a PhD are welcome to apply at Grade 6. 
 
