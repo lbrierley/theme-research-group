@@ -24,4 +24,4 @@ user_groups:
 ---
 
 <!-- HTML meta tag for redirecting -->
-<meta http-equiv="refresh" content="0; url=https://uk.linkedin.com/in/zhongtian-sun-62126099/en" />
+<meta http-equiv="refresh" content="0; url=https://www.kent.ac.uk/school-of-computing/people/5382/sun-zhongtian" />
