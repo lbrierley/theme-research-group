@@ -27,6 +27,7 @@ sections:
       title: <span style="font-size:0.75em;">Previous Project Supervisions</span>
       subtitle:
       text: |
+        - <span style="font-size:0.8em;">Fengshi Jin (MSc, University of Glasgow, 2025)</span>
         - <span style="font-size:0.8em;">Bridget Chukwudile (MSc, University of Liverpool, 2024)</span>
         - <span style="font-size:0.8em;">Rugare Maruzani (PhD, University of Liverpool, 2024)</span>
         - <span style="font-size:0.8em;">Hannah Kockelbergh (PhD, University of Liverpool, 2024)</span>
