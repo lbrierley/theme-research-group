@@ -7,7 +7,7 @@ first_name: Bailey
 last_name: Atkinson 
 
 # Role/position
-role: Rotating PhD Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
