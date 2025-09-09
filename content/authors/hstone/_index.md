@@ -18,7 +18,7 @@ organizations:
 bio: Haley is a Postdoctoral Research Assistant in the VIBE research group working on prediction of viral tropisms using graph interface techniques. 
 
 interests:
-  - Machine Learning and Artifial Intelligence 
+  - Machine Learning and Artificial Intelligence 
   - Predictive Modelling Techniques 
   - Viral Emergence and Evolution
   - Zoonotic Disease
