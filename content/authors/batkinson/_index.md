@@ -53,6 +53,6 @@ user_groups:
   - Postgraduate Students
 ---
 
-I am a first year MRC University of Glasgow CVR PhD student and am rotating in the VIBE lab. For the past two years, I worked at the U.S. CDC Division of Vector-Borne Disease where I focused my research on improving viral diagnostics and sequencing protocols. My current work in the VIBE lab uses machine learning and language models to predict avian influenza re-assortment patterns based on RNA and protein interactions. I am deeply motivated to pursue research through interdisciplinary avenues including disease ecology, molecular virology, field epidemiology and One Health.
+I am a first year MRC University of Glasgow CVR PhD student in the VIBE lab. Before starting my PhD, I worked at the U.S. CDC Division of Vector-Borne Disease where I focused my research on improving viral diagnostics and sequencing protocols. My current work in the VIBE lab incorporates machine learning, field work and serology to predict viral infectivity of vampire bat-borne paramyxoviruses in Peruvian livestock. I am particularly interested in the recently characterized vampire bat morbillivirus (VamMV). For this project, I am collaborating with SENASA Peru (Peruvian Ministry of Agriculture) and am co-supervised under the [Streicker lab](https://streickerlab.com/).
 
-Outside of the lab, I like to weight-lift, travel across the Highlands and cook various soups. Fun fact: I play Pokemon competitively and am competing in the European International Championships 2025!
+Outside of the lab, I like to weight-lift, travel across the Highlands and cook various soups. Fun fact: I play Pokémon competitively and have attended the European International Championships!
