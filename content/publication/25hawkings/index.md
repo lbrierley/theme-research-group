@@ -1,5 +1,5 @@
 ---
-title: "An AI for an AI: identifying zoonotic potential of avian influenza viruses via genomic machine learning"
+title: "COVID-19 and and new-onset autoimmune mediated gastrointestinal illness: a naturalistic cohort study from England"
 authors:
 - Michael Hawkings
 - lbrierley
