@@ -7,7 +7,7 @@ authors:
 - Christl Donnelly
 - Matthew Baylis
 - lbrierley
-date: "2024-07-22T00:00:00Z"
+date: "2025-05-01T00:00:00Z"
 doi: "10.1101/2024.07.17.603912"
 author_notes:
 - "Equal contribution"
@@ -31,7 +31,7 @@ featured: false
 
 links:
 - name: Full text
-  url: https://www.biorxiv.org/content/10.1101/2024.07.17.603912v1
+  url: https://www.biorxiv.org/content/10.1101/2024.07.17.603912v2
 url_code: https://github.com/sarahhayes/avian_flu_sdm
 url_dataset: https://zenodo.org/records/13273108
 url_poster: ''
