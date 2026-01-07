@@ -18,7 +18,7 @@ tags: []
 featured: false
 
 image:
-  caption: '© Dan Ridley-Ellis'
+  caption: '© Peter Murray'
   focal_point: Right
 
 # Markdown Slides (optional).
