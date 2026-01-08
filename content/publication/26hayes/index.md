@@ -1,5 +1,5 @@
 ---
-title: "Ecology and environment predict spatially stratified risk of highly pathogenic avian influenza in wild birds across Europe"
+title: "Ecology and environment predict spatially stratified risk of H5 highly pathogenic avian influenza clade 2.3.4.4b in wild birds across Europe"
 authors:
 - Sarah Hayes
 - jhilton
@@ -7,8 +7,8 @@ authors:
 - Christl Donnelly
 - Matthew Baylis
 - lbrierley
-date: "2025-05-01T00:00:00Z"
-doi: "10.1101/2024.07.17.603912"
+date: "2026-01-08T00:00:00Z"
+doi: "10.1038/s41598-025-30651-9"
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -19,10 +19,10 @@ publishDate: "2017-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*Scientific Reports*, 16: 997"
 publication_short: ""
 
 categories:
@@ -31,9 +31,9 @@ featured: false
 
 links:
 - name: Full text
-  url: https://www.biorxiv.org/content/10.1101/2024.07.17.603912v2
+  url: https://www.nature.com/articles/s41598-025-30651-9
 url_code: https://github.com/sarahhayes/avian_flu_sdm
-url_dataset: https://zenodo.org/records/13273108
+url_dataset: https://zenodo.org/records/15344899
 url_poster: ''
 url_project: ''
 url_slides: ''
@@ -44,7 +44,7 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   placement: 1
-  caption: Projected probability of HPAI presence by quarter in Europe.
+  caption: Projected probability of H5 clade 2.3.4.4b presence by bird behavioural season in Europe.
   preview_only: false
 
 # Associated Projects (optional).
