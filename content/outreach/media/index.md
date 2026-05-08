@@ -37,7 +37,7 @@ As an [RSS Statistical Ambassador](https://rss.org.uk/membership/faq/rss-statist
 <br><br>
 
 # Media commentary:
-Our expertise has provided commentary and guidance on new research in ecology and evolution of infectious disease through the Science Media Centre, including stories on **[pandemic risks from biodiversity loss](https://www.sciencemediacentre.org/expert-reaction-to-an-ipbes-workshop-report-on-biodiversity-and-pandemics/)** and **[COVID-19](https://www.sciencemediacentre.org/expert-reaction-to-preprint-on-air-pollution-in-england-and-covid-19-severity/)**. <br><br>
+Our expertise has provided commentary and guidance on breaking developments in ecology and evolution of infectious disease through the Science Media Centre that have been quoted in press, including stories on **[Hantavirus cases aboard the MV Hondius](https://www.sciencemediacentre.org/expert-reaction-to-hantavirus-situation-on-cruise-ship-heading-from-argentina-to-cape-verde/)**, **[COVID-19](https://www.sciencemediacentre.org/expert-reaction-to-preprint-on-air-pollution-in-england-and-covid-19-severity/)**, and **[biodiversity loss in relation to pandemic risks](https://www.sciencemediacentre.org/expert-reaction-to-an-ipbes-workshop-report-on-biodiversity-and-pandemics/)** . <br><br>
 
 # Our research in the media:
 Our published research has been reported via leading news outlets such as the **[BBC](https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-38207006)**,
